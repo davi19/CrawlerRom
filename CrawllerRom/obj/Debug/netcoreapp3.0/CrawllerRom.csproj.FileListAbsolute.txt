@@ -1,0 +1,16 @@
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom.deps.json
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom.runtimeconfig.json
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom.runtimeconfig.dev.json
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom.dll
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/CrawllerRom.pdb
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/WebDriver.Support.dll
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/WebDriver.dll
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.csprojAssemblyReference.cache
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.AssemblyInfoInputs.cache
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.AssemblyInfo.cs
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.csproj.CopyComplete
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.dll
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/Debug/netcoreapp3.0/CrawllerRom.pdb
+/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/bin/Debug/netcoreapp3.0/SeleniumExtras.WaitHelpers.dll

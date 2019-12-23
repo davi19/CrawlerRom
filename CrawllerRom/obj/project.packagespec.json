@@ -1,0 +1,67 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/CrawllerRom.csproj",
+    "projectName": "CrawllerRom",
+    "projectPath": "/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/CrawllerRom.csproj",
+    "outputPath": "/Users/sicoobdivicred/Google Drive/CrawllerRom/CrawllerRom/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "DotNetSeleniumExtras.WaitHelpers": {
+          "target": "Package",
+          "version": "[3.11.0, )"
+        },
+        "Selenium.Support": {
+          "target": "Package",
+          "version": "[4.0.0-alpha03, )"
+        },
+        "Selenium.WebDriver": {
+          "target": "Package",
+          "version": "[4.0.0-alpha03, )"
+        },
+        "WebDriver.ChromeDriver": {
+          "target": "Package",
+          "version": "[26.14.313457.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+    }
+  }
+}
